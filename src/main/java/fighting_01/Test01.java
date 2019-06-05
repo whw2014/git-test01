@@ -11,6 +11,7 @@ public class Test01 {
 		System.out.println("切换新的分支。。。");
 		System.out.println("切换新的分支advdx。");
         System.out.println("切换新的分支dev3");
+		System.out.println("切换新的分支master");
 
 	}
 }
